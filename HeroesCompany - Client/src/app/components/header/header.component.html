@@ -1,0 +1,25 @@
+<div class="header">
+  <div class="headline" #headline routerLink="/home" >
+    <h1 #h1>HEROES TRAINING</h1>
+    <p class="h2" #h2>EXACTLY WHAT YOU AND YOUR HERO NEED!</p>
+  </div>
+
+  <div class="auth-container">
+    <span class="greetings">{{greetings}}</span>
+    <a *ngIf="!trainer" routerLink="/login" class="authNav">LOGIN</a>
+    <a *ngIf="!trainer" routerLink="/register" class="authNav">REGISTER</a>
+
+    <!-- only if trainer is logged in -->
+    <!-- <a *ngIf="trainer" routerLink="/account/dashboard" class="authNav">MY PROFILE</a> -->
+    <a *ngIf="trainer" class="authNav" (click)="logout()">LOGOUT</a>
+  </div>
+
+  <div class="menu-container">
+    <nav>
+      <!-- <a class="menu-item" (click)="refresh()">Rent a Car</a> -->
+      <a routerLink="/home" class="menu-item">HOME</a>
+      <a *ngIf="trainer" routerLink="/heroes" class="menu-item">MY HEROES</a>
+      <!-- <a routerLink="/about" class="menu-item">About</a> -->
+    </nav>
+  </div>
+</div>

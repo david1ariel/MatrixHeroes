@@ -1,0 +1,17 @@
+C:\Users\david\מסמכים\Job Interviews\Heroes\03 - BusinessLogicLayer\bin\Debug\net5.0\01 - DataAccessLayer.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\03 - BusinessLogicLayer\bin\Debug\net5.0\02 - BusinessModelLayer.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\03 - BusinessLogicLayer\bin\Debug\net5.0\01 - DataAccessLayer.pdb
+C:\Users\david\מסמכים\Job Interviews\Heroes\03 - BusinessLogicLayer\obj\Debug\net5.0\03 - BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\david\מסמכים\Job Interviews\Heroes\03 - BusinessLogicLayer\obj\Debug\net5.0\03 - BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\מסמכים\Job Interviews\Heroes\03 - BusinessLogicLayer\obj\Debug\net5.0\03 - BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\david\מסמכים\Job Interviews\Heroes\03 - BusinessLogicLayer\obj\Debug\net5.0\03 - BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\david\מסמכים\Job Interviews\Heroes\03 - BusinessLogicLayer\bin\Debug\net5.0\03 - BusinessLogicLayer.deps.json
+C:\Users\david\מסמכים\Job Interviews\Heroes\03 - BusinessLogicLayer\bin\Debug\net5.0\03 - BusinessLogicLayer.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\03 - BusinessLogicLayer\bin\Debug\net5.0\ref\03 - BusinessLogicLayer.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\03 - BusinessLogicLayer\bin\Debug\net5.0\03 - BusinessLogicLayer.pdb
+C:\Users\david\מסמכים\Job Interviews\Heroes\03 - BusinessLogicLayer\bin\Debug\net5.0\02 - BusinessModelLayer.pdb
+C:\Users\david\מסמכים\Job Interviews\Heroes\03 - BusinessLogicLayer\obj\Debug\net5.0\03 - BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\david\מסמכים\Job Interviews\Heroes\03 - BusinessLogicLayer\obj\Debug\net5.0\03 - BusinessLogicLayer.csproj.CopyComplete
+C:\Users\david\מסמכים\Job Interviews\Heroes\03 - BusinessLogicLayer\obj\Debug\net5.0\03 - BusinessLogicLayer.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\03 - BusinessLogicLayer\obj\Debug\net5.0\ref\03 - BusinessLogicLayer.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\03 - BusinessLogicLayer\obj\Debug\net5.0\03 - BusinessLogicLayer.pdb

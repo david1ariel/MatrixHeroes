@@ -1,0 +1,15 @@
+C:\Users\david\OneDrive\Documents\Programing\Job Interviews\Matrix\Job Interview Exercize\Heroes Company - Server\02 - Model Business Layer\bin\Debug\net5.0\02 - Model Business Layer.deps.json
+C:\Users\david\OneDrive\Documents\Programing\Job Interviews\Matrix\Job Interview Exercize\Heroes Company - Server\02 - Model Business Layer\bin\Debug\net5.0\02 - Model Business Layer.dll
+C:\Users\david\OneDrive\Documents\Programing\Job Interviews\Matrix\Job Interview Exercize\Heroes Company - Server\02 - Model Business Layer\bin\Debug\net5.0\ref\02 - Model Business Layer.dll
+C:\Users\david\OneDrive\Documents\Programing\Job Interviews\Matrix\Job Interview Exercize\Heroes Company - Server\02 - Model Business Layer\bin\Debug\net5.0\02 - Model Business Layer.pdb
+C:\Users\david\OneDrive\Documents\Programing\Job Interviews\Matrix\Job Interview Exercize\Heroes Company - Server\02 - Model Business Layer\bin\Debug\net5.0\01 - Data Access Layer.dll
+C:\Users\david\OneDrive\Documents\Programing\Job Interviews\Matrix\Job Interview Exercize\Heroes Company - Server\02 - Model Business Layer\bin\Debug\net5.0\01 - Data Access Layer.pdb
+C:\Users\david\OneDrive\Documents\Programing\Job Interviews\Matrix\Job Interview Exercize\Heroes Company - Server\02 - Model Business Layer\obj\Debug\net5.0\02 - Model Business Layer.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Documents\Programing\Job Interviews\Matrix\Job Interview Exercize\Heroes Company - Server\02 - Model Business Layer\obj\Debug\net5.0\02 - Model Business Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Documents\Programing\Job Interviews\Matrix\Job Interview Exercize\Heroes Company - Server\02 - Model Business Layer\obj\Debug\net5.0\02 - Model Business Layer.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Documents\Programing\Job Interviews\Matrix\Job Interview Exercize\Heroes Company - Server\02 - Model Business Layer\obj\Debug\net5.0\02 - Model Business Layer.AssemblyInfo.cs
+C:\Users\david\OneDrive\Documents\Programing\Job Interviews\Matrix\Job Interview Exercize\Heroes Company - Server\02 - Model Business Layer\obj\Debug\net5.0\02 - Model Business Layer.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Documents\Programing\Job Interviews\Matrix\Job Interview Exercize\Heroes Company - Server\02 - Model Business Layer\obj\Debug\net5.0\02 - Model Business Layer.csproj.CopyComplete
+C:\Users\david\OneDrive\Documents\Programing\Job Interviews\Matrix\Job Interview Exercize\Heroes Company - Server\02 - Model Business Layer\obj\Debug\net5.0\02 - Model Business Layer.dll
+C:\Users\david\OneDrive\Documents\Programing\Job Interviews\Matrix\Job Interview Exercize\Heroes Company - Server\02 - Model Business Layer\obj\Debug\net5.0\ref\02 - Model Business Layer.dll
+C:\Users\david\OneDrive\Documents\Programing\Job Interviews\Matrix\Job Interview Exercize\Heroes Company - Server\02 - Model Business Layer\obj\Debug\net5.0\02 - Model Business Layer.pdb

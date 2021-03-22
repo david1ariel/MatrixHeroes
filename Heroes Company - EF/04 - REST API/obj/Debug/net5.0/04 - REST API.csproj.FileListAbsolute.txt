@@ -1,0 +1,69 @@
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\appsettings.json
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\04 - REST API.exe
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\04 - REST API.deps.json
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\04 - REST API.runtimeconfig.json
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\04 - REST API.runtimeconfig.dev.json
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\04 - REST API.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\ref\04 - REST API.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\04 - REST API.pdb
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\01 - DataAccessLayer.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\02 - BusinessModelLayer.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\03 - BusinessLogicLayer.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\03 - BusinessLogicLayer.pdb
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\01 - DataAccessLayer.pdb
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\02 - BusinessModelLayer.pdb
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\obj\Debug\net5.0\04 - REST API.csprojAssemblyReference.cache
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\obj\Debug\net5.0\04 - REST API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\obj\Debug\net5.0\04 - REST API.AssemblyInfoInputs.cache
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\obj\Debug\net5.0\04 - REST API.AssemblyInfo.cs
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\obj\Debug\net5.0\04 - REST API.csproj.CoreCompileInputs.cache
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\obj\Debug\net5.0\04 - REST API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\obj\Debug\net5.0\04 - REST API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\obj\Debug\net5.0\staticwebassets\04 - REST API.StaticWebAssets.Manifest.cache
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\obj\Debug\net5.0\staticwebassets\04 - REST API.StaticWebAssets.xml
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\obj\Debug\net5.0\scopedcss\bundle\04 - REST API.styles.css
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\obj\Debug\net5.0\04 - REST API.RazorTargetAssemblyInfo.cache
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\obj\Debug\net5.0\04 - REST API.csproj.CopyComplete
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\obj\Debug\net5.0\04 - REST API.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\obj\Debug\net5.0\ref\04 - REST API.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\obj\Debug\net5.0\04 - REST API.pdb
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\obj\Debug\net5.0\04 - REST API.genruntimeconfig.cache
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\log4net.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\04 - REST API\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll

@@ -1,0 +1,15 @@
+C:\Users\david\מסמכים\Job Interviews\Heroes\02 - BusinessModelLayer\bin\Debug\net5.0\02 - BusinessModelLayer.deps.json
+C:\Users\david\מסמכים\Job Interviews\Heroes\02 - BusinessModelLayer\bin\Debug\net5.0\02 - BusinessModelLayer.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\02 - BusinessModelLayer\bin\Debug\net5.0\ref\02 - BusinessModelLayer.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\02 - BusinessModelLayer\bin\Debug\net5.0\02 - BusinessModelLayer.pdb
+C:\Users\david\מסמכים\Job Interviews\Heroes\02 - BusinessModelLayer\bin\Debug\net5.0\01 - DataAccessLayer.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\02 - BusinessModelLayer\bin\Debug\net5.0\01 - DataAccessLayer.pdb
+C:\Users\david\מסמכים\Job Interviews\Heroes\02 - BusinessModelLayer\obj\Debug\net5.0\02 - BusinessModelLayer.csprojAssemblyReference.cache
+C:\Users\david\מסמכים\Job Interviews\Heroes\02 - BusinessModelLayer\obj\Debug\net5.0\02 - BusinessModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\מסמכים\Job Interviews\Heroes\02 - BusinessModelLayer\obj\Debug\net5.0\02 - BusinessModelLayer.AssemblyInfoInputs.cache
+C:\Users\david\מסמכים\Job Interviews\Heroes\02 - BusinessModelLayer\obj\Debug\net5.0\02 - BusinessModelLayer.AssemblyInfo.cs
+C:\Users\david\מסמכים\Job Interviews\Heroes\02 - BusinessModelLayer\obj\Debug\net5.0\02 - BusinessModelLayer.csproj.CoreCompileInputs.cache
+C:\Users\david\מסמכים\Job Interviews\Heroes\02 - BusinessModelLayer\obj\Debug\net5.0\02 - BusinessModelLayer.csproj.CopyComplete
+C:\Users\david\מסמכים\Job Interviews\Heroes\02 - BusinessModelLayer\obj\Debug\net5.0\02 - BusinessModelLayer.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\02 - BusinessModelLayer\obj\Debug\net5.0\ref\02 - BusinessModelLayer.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\02 - BusinessModelLayer\obj\Debug\net5.0\02 - BusinessModelLayer.pdb

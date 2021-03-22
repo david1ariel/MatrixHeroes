@@ -1,0 +1,12 @@
+C:\Users\david\OneDrive\Documents\Programing\Job Interviews\Matrix\Job Interview Exercize\Heroes Company - Server\01 - Data Access Layer\obj\Debug\net5.0\01 - Data Access Layer.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Documents\Programing\Job Interviews\Matrix\Job Interview Exercize\Heroes Company - Server\01 - Data Access Layer\obj\Debug\net5.0\01 - Data Access Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Documents\Programing\Job Interviews\Matrix\Job Interview Exercize\Heroes Company - Server\01 - Data Access Layer\obj\Debug\net5.0\01 - Data Access Layer.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Documents\Programing\Job Interviews\Matrix\Job Interview Exercize\Heroes Company - Server\01 - Data Access Layer\obj\Debug\net5.0\01 - Data Access Layer.AssemblyInfo.cs
+C:\Users\david\OneDrive\Documents\Programing\Job Interviews\Matrix\Job Interview Exercize\Heroes Company - Server\01 - Data Access Layer\obj\Debug\net5.0\01 - Data Access Layer.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Documents\Programing\Job Interviews\Matrix\Job Interview Exercize\Heroes Company - Server\01 - Data Access Layer\bin\Debug\net5.0\01 - Data Access Layer.deps.json
+C:\Users\david\OneDrive\Documents\Programing\Job Interviews\Matrix\Job Interview Exercize\Heroes Company - Server\01 - Data Access Layer\bin\Debug\net5.0\01 - Data Access Layer.dll
+C:\Users\david\OneDrive\Documents\Programing\Job Interviews\Matrix\Job Interview Exercize\Heroes Company - Server\01 - Data Access Layer\bin\Debug\net5.0\ref\01 - Data Access Layer.dll
+C:\Users\david\OneDrive\Documents\Programing\Job Interviews\Matrix\Job Interview Exercize\Heroes Company - Server\01 - Data Access Layer\bin\Debug\net5.0\01 - Data Access Layer.pdb
+C:\Users\david\OneDrive\Documents\Programing\Job Interviews\Matrix\Job Interview Exercize\Heroes Company - Server\01 - Data Access Layer\obj\Debug\net5.0\01 - Data Access Layer.dll
+C:\Users\david\OneDrive\Documents\Programing\Job Interviews\Matrix\Job Interview Exercize\Heroes Company - Server\01 - Data Access Layer\obj\Debug\net5.0\ref\01 - Data Access Layer.dll
+C:\Users\david\OneDrive\Documents\Programing\Job Interviews\Matrix\Job Interview Exercize\Heroes Company - Server\01 - Data Access Layer\obj\Debug\net5.0\01 - Data Access Layer.pdb

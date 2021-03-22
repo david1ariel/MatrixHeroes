@@ -1,0 +1,15 @@
+C:\Users\david\מסמכים\Job Interviews\Heroes\01 - DataAccessLayer\bin\Debug\net5.0\01 - DataAccessLayer.deps.json
+C:\Users\david\מסמכים\Job Interviews\Heroes\01 - DataAccessLayer\bin\Debug\net5.0\01 - DataAccessLayer.runtimeconfig.json
+C:\Users\david\מסמכים\Job Interviews\Heroes\01 - DataAccessLayer\bin\Debug\net5.0\01 - DataAccessLayer.runtimeconfig.dev.json
+C:\Users\david\מסמכים\Job Interviews\Heroes\01 - DataAccessLayer\bin\Debug\net5.0\01 - DataAccessLayer.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\01 - DataAccessLayer\bin\Debug\net5.0\ref\01 - DataAccessLayer.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\01 - DataAccessLayer\bin\Debug\net5.0\01 - DataAccessLayer.pdb
+C:\Users\david\מסמכים\Job Interviews\Heroes\01 - DataAccessLayer\obj\Debug\net5.0\01 - DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\david\מסמכים\Job Interviews\Heroes\01 - DataAccessLayer\obj\Debug\net5.0\01 - DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\מסמכים\Job Interviews\Heroes\01 - DataAccessLayer\obj\Debug\net5.0\01 - DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\david\מסמכים\Job Interviews\Heroes\01 - DataAccessLayer\obj\Debug\net5.0\01 - DataAccessLayer.AssemblyInfo.cs
+C:\Users\david\מסמכים\Job Interviews\Heroes\01 - DataAccessLayer\obj\Debug\net5.0\01 - DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\david\מסמכים\Job Interviews\Heroes\01 - DataAccessLayer\obj\Debug\net5.0\01 - DataAccessLayer.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\01 - DataAccessLayer\obj\Debug\net5.0\ref\01 - DataAccessLayer.dll
+C:\Users\david\מסמכים\Job Interviews\Heroes\01 - DataAccessLayer\obj\Debug\net5.0\01 - DataAccessLayer.pdb
+C:\Users\david\מסמכים\Job Interviews\Heroes\01 - DataAccessLayer\obj\Debug\net5.0\01 - DataAccessLayer.genruntimeconfig.cache

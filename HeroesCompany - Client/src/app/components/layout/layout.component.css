@@ -1,0 +1,21 @@
+main {
+  margin: 0;
+    width: 100%;
+    min-height: 720px;
+    margin-top: 0;
+}
+
+router-outlet{
+    width: 100%;
+}
+
+header {
+    width: 100%;
+    display: block;
+    position: sticky;
+    top: 0;
+    /* height: 500px; */
+    z-index: 1;
+    background-color: rgb(199, 188, 186);
+    margin: 0;
+}

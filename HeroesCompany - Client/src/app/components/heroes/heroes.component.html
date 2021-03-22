@@ -1,0 +1,68 @@
+<div class="users-container">
+  <div class="headline">
+    <h1>Here are your mighty heroes:</h1>
+  </div>
+
+  <br><br>
+  <div>
+    <table class="table-container" *ngIf="heroes">
+      <thead>
+        <tr class="tr-head">
+          <th>Name</th>
+          <th>Ability</th>
+          <th>Date When Trainig Started</th>
+          <th>Suit Colors</th>
+          <th>Starting Power</th>
+          <th>Current Power</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let h of heroes; index as i">
+          <td>{{h.name}}</td>
+          <td>{{h.ability}}</td>
+          <td>{{h.trainStartDate}}</td>
+          <td>{{h.suitColors}}</td>
+          <td>{{h.startingPower}}</td>
+          <td>{{h.currentPower}}</td>
+          <td><button class="btn btn-danger" (click)="deleteHero(h)">DELETE</button></td>
+        </tr>
+      </tbody>
+    </table>
+    <br>
+
+
+    <h5 class="headline">Add New Hero</h5>
+    <table>
+      <thead>
+        <tr class="tr-head">
+          <th>Name</th>
+          <th>Ability</th>
+          <th>Date When Trainig Started</th>
+          <th>Suit Colors</th>
+          <th>Starting Power</th>
+          <th>Current Power</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+
+          <td><input type="text" [(ngModel)]="heroToAdd.name"></td>
+          <td><input type="text" [(ngModel)]="heroToAdd.ability"></td>
+          <td><input type="date" [(ngModel)]="heroToAdd.trainStartDate"></td>
+          <td><input type="text" [(ngModel)]="heroToAdd.suitColors"></td>
+          <td><input type="number" [(ngModel)]="heroToAdd.startingPower"></td>
+          <td><input type="number" [(ngModel)]="heroToAdd.currentPower"></td>
+
+          <td><button class="btn btn-success" (click)="addHero()">ADD HERO</button></td>
+          <td><button class="btn btn-danger" (click)="clear()">CLEAR</button></td>
+
+
+        </tr>
+      </tbody>
+    </table>
+    <br>
+
+
+  </div>
+</div>
+

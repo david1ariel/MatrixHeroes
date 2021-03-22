@@ -1,0 +1,43 @@
+<div class="register-container" >
+  <div class="headline">
+    <h1>REGISTRATION</h1>
+  </div>
+  <form #formInfo="ngForm" class="form">
+
+    <div class="table1">
+      <table>
+        <tr>
+          <td>Name*:</td>
+          <td><input type="text" name="firstname" [(ngModel)]="trainer.name" required pattern="^[A-Z].*$"
+              #nameInfo="ngModel" autofocus>
+            <span *ngIf="nameInfo.errors?.required && nameInfo.touched">Missing name</span>
+            <span *ngIf="nameInfo.errors?.pattern && nameInfo.touched">Name must be capitalize</span>
+          </td>
+        </tr>
+
+        <tr class="table1">
+          <td>Username*:</td>
+          <td><input type="text" name="username" [(ngModel)]="trainer.username" required #usernameInfo="ngModel">
+            <span *ngIf="usernameInfo.errors?.required && usernameInfo.touched">Missing username</span>
+        </tr>
+
+        <tr>
+          <td>Password*:</td>
+          <td><input type="password" name="password" [(ngModel)]="trainer.password" required 
+              #passwordInfo="ngModel">
+          </td>
+          <td>
+            <span *ngIf="passwordInfo.errors?.required && passwordInfo.touched">Missing password</span>
+            <span *ngIf="passwordInfo.errors?.pattern && passwordInfo.touched">Password must have at least 8 Characters, 1 upper case letter, and 1 special character</span>
+          </td>
+        </tr>
+
+      </table>
+    </div>
+
+
+      <button class="btn-agree" [disabled]="formInfo.form.invalid" (click)="register()">REGISTER</button>
+
+  </form>
+
+</div>
